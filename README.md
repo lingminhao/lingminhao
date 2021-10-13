@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Ling Min Hao, born in Malaysia, 25 years old, student at Universiti Malaya, Malaysia. 
+- 👋  Hi, I’m Ling Min Hao, born in Malaysia, 25 years old, master student at Universiti Malaya, Malaysia. 
 - 👋  While off, I like to travel around to relax myself. Previously, I visited Singapore, Vietnam and Italy. Besides, I love watching dramas and movies. 
 - 💞️  I’m looking for overseas research internship so I can apply the tools I had learnt (statistics, random matrix theory, machine learning, deep learning, algorithms etc.) to solve problems in biology. I know Python and R. 
 - 📫  How to reach me ? Email lingminhao31@gmail.com. 
